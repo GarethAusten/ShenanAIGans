@@ -1,0 +1,10 @@
+crewai
+langchain
+langchain-community
+openai
+# Add one of these depending on your choice:
+google-api-python-client  # For Google Search
+google-search-results     # For SerpAPI
+tavily-python            # For Tavily
+requests                 # For custom scraping
+beautifulsoup4          # For custom scraping 
