@@ -34,7 +34,6 @@ Welcome to our rugby show! Let’s dive into the action from the latest round of
   A historic rivalry, this clash promises to be intense as England looks to bounce back from their loss to Ireland, while Scotland aims to continue their momentum.
 
 Stay tuned for more insights and analysis as we track the journey of each team in this exciting Six Nations Championship!
-```
 
 ## 🎙️ Expert Analysis
 
